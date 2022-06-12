@@ -23,8 +23,8 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 UPSTREAM_REPO = "https://github.com/attitudeking1/Lovelymusic"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/ABOUTVEDMAT"
-SUPPORT_GROUP = "https://t.me/LOVELYAPPEAL"
+SUPPORT_CHANNEL = "https://t.me/ITZZ_OFFICIAL"
+SUPPORT_GROUP = "https://t.me/UNIQUE_SOCIETY"
 
 THUMBNAIL = "https://telegra.ph/file/41dd51814d6dc353cde87.jpg" 
 
