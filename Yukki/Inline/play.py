@@ -27,18 +27,18 @@ def url_markup(videoid, duration, user_id, query, query_type):
         ],
         [
             InlineKeyboardButton(
-                text="Updates",
+                text="✦ Updates",
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="Support",
+                text="Support ✦",
                 url=f"{SUPPORT_GROUP}",
             ),
         ],
         [
             InlineKeyboardButton(
                 text="Add me",
-                url=f"t.me{BOT_USERNAME}?startgroup=true",
+                url=f"t.me/HYPERMEN_RBOT?startgroup=true",
             ),
         ], 
     ]
